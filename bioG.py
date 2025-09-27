@@ -224,3 +224,4 @@ predict_button.grid(row=len(input_labels), column=0, columnspan=2, padx=5, pady=
 root.mainloop()
 
 Do for BaggingRegressor as well ( same procedure )
+
